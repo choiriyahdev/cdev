@@ -10,3 +10,6 @@
     </script>
 </body>
 </html>
+
+
+<a href="#" onclick="alert('Yey!')">Klik aku!</a>
