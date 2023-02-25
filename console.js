@@ -24,3 +24,6 @@ cd ~/ping/ && \
 git fetch && \
 git reset --hard && \
 git pull   // 3nd time
+
+
+pip3 install -r ~/ping/requirements.txt // 4nd time
