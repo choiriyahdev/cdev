@@ -13,3 +13,8 @@
 
 
 <a href="#" onclick="alert('Yey!')">Klik aku!</a>
+
+
+kenblockchainlabs-js/ // 2nd time
+├── kode-program.js
+└── index.html
