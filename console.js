@@ -18,3 +18,9 @@
 kenblockchainlabs-js/ // 2nd time
 ├── kode-program.js
 └── index.html
+
+
+cd ~/ping/ && \
+git fetch && \
+git reset --hard && \
+git pull   // 3nd time
